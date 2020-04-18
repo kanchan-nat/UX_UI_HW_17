@@ -187,11 +187,11 @@ section{
 
 
 .footer{
-    width: 30%;
+    width: 55%;
 }
 .shape {
     position: relative;
-    left: 350px;
+    left: 375px;
     height: 64px;
     width: 175px;
     background-color: #504720;
@@ -202,6 +202,7 @@ section{
     padding-right: 23px;
     padding-left: 20px;
     margin-right: 29px;
+    margin-top:29px;
 }
 
 .mainfooter{
